@@ -11,7 +11,7 @@ const unit_test = async () => {
         console.log(1);
     }
 
-    if (Utils.add(2, 4) === 6) {
+    if (Utils.add(2, 4) === 7) {
         console.log(0);
         // helloworld();
     }
