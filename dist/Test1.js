@@ -16,7 +16,7 @@ const unit_test = () => __awaiter(void 0, void 0, void 0, function* () {
     else {
         console.log(1);
     }
-    if (Utils.add(2, 4) === 7) {
+    if (Utils.add(2, 4) === 6) {
         console.log(0);
         // helloworld();
     }
